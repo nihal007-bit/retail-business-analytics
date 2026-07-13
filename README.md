@@ -1,3 +1,6 @@
+
+![Uploading Screenshot 2026-07-14 023335.png…]()
+
 # Retail Business Analytics using Python, PostgreSQL & Power BI
 
 ## Project Overview

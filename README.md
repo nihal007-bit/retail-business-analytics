@@ -1,5 +1,6 @@
 
-![Uploading Screenshot 2026-07-14 023335.png…]()
+<img width="1197" height="652" alt="image" src="https://github.com/user-attachments/assets/e21eead3-a09a-437b-b921-703b6330c121" />
+
 
 # Retail Business Analytics using Python, PostgreSQL & Power BI
 
